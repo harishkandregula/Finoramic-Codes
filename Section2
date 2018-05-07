@@ -1,0 +1,122 @@
+#Code to download and install all dependencies
+
+get-pip.py 
+    #downloads pip Securely
+    python get-pip.py   # This runs or install pip 
+     
+     
+    pip install -r dependencies.txt
+    
+    if pip install 'beautifulsoup4==4.4.1':
+       print(" print success")
+       else:
+       print("Failed beautifulsoup4")
+       
+    if pip install 'boto==2.48.0':
+     print(" print success")
+       else:
+       print("Failed boto")
+       
+    if pip install 'bz2file==0.98':
+     print(" print success")
+       else:
+       print("Failed bz2file")
+       
+     if pip install 'certifi==2017.7.27.1':
+      print(" print success")
+       else:
+       print("Failed certifi")
+       
+    if pip install 'chardet==3.0.4':
+     print(" print success")
+       else:
+       print("Failed chardet")
+       
+    if pip install 'gensim==2.3.0':
+     print(" print success")
+       else:
+       print("Failed html5lib")
+       
+   if pip install 'html5lib==0.999':
+    print(" print success")
+       else:
+       print("Failed html5lib")
+       
+    if pip install 'idna==2.5':
+     print(" print success")
+       else:
+       print("Failed idna")
+       
+      if pip install 'nltk==3.2.4':
+       print(" print success")
+       else:
+       print("Failed nltk")
+       
+     if pip install 'numpy==1.13.1':
+      print(" print success")
+       else:
+       print("Failed numpy")
+       
+     if pip install 'pexpect==4.0.1':
+      print(" print success")
+       else:
+       print("Failed pexpect")
+       
+      if pip install 'pip==9.0.1':
+      print(" print success")
+       else:
+       print("Failed pip")
+     
+     if pip install 'ptyprocess==0.5':
+     print(" print success")
+       else:
+       print("Failed ptyprocess")
+       
+    if pip install 'pyxdg==0.25':
+    print(" print success")
+       else:
+       print("Failed pyxdg")
+       
+     if pip install 'reportlab==3.3.0':
+     print(" print success")
+       else:
+       print("Failed reportla")
+       
+    if pip install 'requests==2.18.3':
+    print(" print success")
+       else:
+       print("Failed requests")
+       
+   if pip install 'scipy==0.19.1':
+   print(" print success")
+       else:
+       print("Failed scipy")
+if pip install 'setuptools==20.7.0':
+print(" print success")
+       else:
+       print("Failed setuptools")
+       
+ if pip install 'six==1.10.0':
+ print(" print success")
+       else:
+       print("Failed six")
+       
+if pip install 'smart-open==1.5.3':
+print(" print success")
+       else:
+       print("Failed smart-open")
+       
+if pip install 'textblob==0.12.0':
+print(" print success")
+       else:
+       print("Failed textblob")
+       
+ if pip install 'twitter==1.17.1':
+ print(" print success")
+       else:
+       print("Failed twitter")
+       
+ if pip install 'urllib3==1.22':
+ print(" print success")
+       else:
+       print("Failed urllib3 ")
